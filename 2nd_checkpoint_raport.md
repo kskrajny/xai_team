@@ -18,4 +18,4 @@ Compare SurvSHAP(t) model-agnostic explanation for survival models to explanatio
 ## What will be done
 - Apply mentioned methods to more datasets
 - Compare SurvShap with DeepLift using Avg-Sensitivity, Faithfulness Correlation metrics
-- Straighten notebooks and write down resultsstraighten
+- Straighten notebooks and write down results
